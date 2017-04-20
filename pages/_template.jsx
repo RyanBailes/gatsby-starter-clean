@@ -21,7 +21,7 @@ module.exports = React.createClass({
             marginBottom: rhythm(1),
           }}
           style={{
-            background: '#252525'
+            background: '#651fff'
           }}
         >
           <Container
@@ -38,7 +38,7 @@ module.exports = React.createClass({
                 textDecoration: 'none',
               }}
             >
-              Your Brand!
+              Test Site
             </Link>
           </Container>
         </Headroom>
